@@ -1,0 +1,79 @@
+body{
+    background-color: aliceblue;
+}
+
+#canva{
+    width: 100%;
+}
+
+#my{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 43%;
+    margin-bottom: 50px;
+}
+
+.sec{
+    margin-bottom: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    border: 5px solid rgb(64, 160, 255);
+    padding: 20px;
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+}
+
+.skills{
+    margin-left: 20%;
+    margin-bottom: 50px;
+}
+
+.web{
+    float: left;
+    margin-right: 20px;
+    height: 100px;
+    width: 200px;
+}
+
+#pa{
+    margin-right: 300px;
+    text-align: justify;
+}
+
+.ok{
+    margin-bottom: 70px;
+}
+
+.text{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+button{
+    margin-left: 47%;
+    margin-top: 50px;
+    background-color: lightgreen;
+    height: 30px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+}
+
+footer{
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
