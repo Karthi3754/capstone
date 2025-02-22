@@ -14,8 +14,10 @@ Welcome to my **Capstone Project**, a personal portfolio website designed to sho
 - **Styling**: Custom CSS
 
 ## 🚀 Getting Started
-1. Clone the repository:
+
+Clone the repository:
    ```sh
    git clone https://github.com/your-username/capstone-main.git
+```
 
 Made with ❤️ by Karthik
